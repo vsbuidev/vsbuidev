@@ -21,9 +21,7 @@
 ###
 
 <div align="left">
-    <a href="www.linkedin.com/in/vsbuidev" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="andiicodes" height="30" width="40" />
-    </a>
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin" height="30" width="40" />
 </div>
 
 ###
