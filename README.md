@@ -1,14 +1,14 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋 I'm Vishwa</h1>
+<h1 align="left">Hey 👋 I'm Vishwa</h1>
 
 ###
 
-<p align="center">UI/UX Designer | Jr. Front End Developer</p>
+<p align="left">UI/UX Designer and Jr.Front End Developer</p>
 
 ###
 
-<p align="left">I specialize in design and development. I'm always looking to learn more about the latest design, development trends and technologies. Let's connect and create something amazing together! 👋</p>
+<p align="left">I specialize in design and development for web and learning for mobile too.., I'm always looking to learn more about the latest design, development trends and technologies. Let's connect and create something amazing together! 👋</p>
 
 ###
 
@@ -21,7 +21,9 @@
 ###
 
 <div align="left">
+<a href="https://www.linkedin.com/in/vsbuidev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin" height="30" width="40" />
+</a>
 </div>
 
 ###
