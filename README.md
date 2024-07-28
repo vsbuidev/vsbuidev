@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">UI/UX Designer and Jr.Front End Developer</p>
+<p align="left">Full Stack Developer and UI/UX Designer</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I’m currently learning React Native, Express js, MongoDB..,</p>
+<p align="left">I’m currently exploring about DevOps..,</p>
 
 ###
 
