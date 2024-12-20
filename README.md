@@ -2,7 +2,7 @@
 
 My name is Vishwa, a freelance designer and developer living in India. 🏡
 
-I specialize in design and development for web and mobile too.., I'm always looking to learn more about the latest design, development trends and technologies. Let's connect and create something amazing together!
+I'm a design-minded engineer focused on building beautiful front-end solutions with great user experiences and backend solutions with adapdable business logic, Currently I'm also exploring about cloud and devops technologies.
 
 ## Techs & Tools used in Front-End
 
@@ -16,17 +16,11 @@ I specialize in design and development for web and mobile too.., I'm always look
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][front-end-anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][front-end-anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/React JS-282C34?logo=React&logoColor=61DAFB" alt="React JS logo" title="React JS" height="25" />][front-end-anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][front-end-anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][front-end-anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][front-end-anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" />][front-end-anchor]
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height=
 
 ## Techs & Tools used in Back-End
 
@@ -49,8 +43,6 @@ I specialize in design and development for web and mobile too.., I'm always look
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][back-end-anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][back-end-anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][back-end-anchor]
 
 ## Other Techs & Tools
 
@@ -61,8 +53,6 @@ I specialize in design and development for web and mobile too.., I'm always look
 [<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" />][other-tools-anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />][other-tools-anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PenPot-282C34?logo=penpot&logoColor=000000" alt="Penpot logo" title="Penpot" height="25" />][other-tools-anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS Code-282C34?logo=vscode&logoColor=181717" alt="VS Code logo" title="VS Code" height="25" />][other-tools-anchor]
 &nbsp;
