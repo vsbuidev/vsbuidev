@@ -1,3 +1,3 @@
 # Hey 👋
 
-My name is Vishwa, I'm a Cloud focused engineer with over 2.5 years of experience in managing and troubleshooting AWS and Azure-based infrastructure for enterprise-level applications. Currently, I'm exploring DevOps practices and automation tools to enhance system reliability and scalability.
+My name is Vishwa, and I'm a Full Stack Developer with over 3 years of experience in building and maintaining scalable web applications. I specialize in React and Frontend Development, leading teams to create high-performance, user-centric interfaces for Supply Chain Management solutions. Currently, I’m expanding my expertise to include Python development, focusing on backend technologies and automation to build robust, scalable systems.
